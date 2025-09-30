@@ -35,4 +35,4 @@ The project also includes a **PowerPoint presentation** and an **ERD (Entity Rel
 ## 📊 ERD (Entity Relationship Diagram)
 The ERD illustrates how entities like **Products, Customers, Suppliers, Employees, Sales, and Orders** are related.  
 
-![ERD Diagram](ER Model.pdf)
+![ERD Diagram](ER_Model.pdf)
